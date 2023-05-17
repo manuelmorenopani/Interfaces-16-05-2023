@@ -1,4 +1,4 @@
-package com.softtek.fundamentos.modelo;
+package com.softtek.Ejercicio3;
 
 import org.springframework.stereotype.Component;
 

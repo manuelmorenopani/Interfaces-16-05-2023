@@ -1,6 +1,4 @@
-package com.softtek.fundamentos.modelo;
-
-import org.springframework.stereotype.Component;
+package com.softtek.Ejercicio3;
 
 public interface Taller {
     String reparar(Coche c);

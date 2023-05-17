@@ -1,4 +1,4 @@
-package com.softtek.fundamentos.modelo;
+package com.softtek.Ejercicio3;
 
 public class Coche {
     public String getMatricula() {

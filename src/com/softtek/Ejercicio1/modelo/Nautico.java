@@ -1,4 +1,4 @@
-package com.softtek.modelo;
+package com.softtek.Ejercicio1.modelo;
 
 public interface Nautico {
     String atracar();

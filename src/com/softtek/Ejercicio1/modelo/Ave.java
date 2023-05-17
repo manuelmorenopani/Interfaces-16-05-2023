@@ -1,5 +1,5 @@
-package com.softtek.modelo;
-import com.softtek.modelo.Animal;
+package com.softtek.Ejercicio1.modelo;
+
 public class Ave extends Animal implements Volador {
     public String despegar() {
         return "El ave está volando desde el suelo.";

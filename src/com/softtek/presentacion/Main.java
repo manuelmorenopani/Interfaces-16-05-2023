@@ -1,4 +1,4 @@
-package com.softtek;
+package com.softtek.presentacion;
 
 import com.softtek.Ejercicio1.modelo.*;
 

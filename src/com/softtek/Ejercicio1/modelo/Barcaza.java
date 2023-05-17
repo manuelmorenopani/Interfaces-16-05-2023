@@ -1,4 +1,4 @@
-package com.softtek.modelo;
+package com.softtek.Ejercicio1.modelo;
 
 public class Barcaza extends Vehiculo implements Nautico{
     public String atracar() {

@@ -1,4 +1,4 @@
-package com.softtek.fundamentos.modelo;
+package com.softtek.Ejercicio3;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

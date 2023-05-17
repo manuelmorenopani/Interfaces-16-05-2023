@@ -1,5 +1,5 @@
-package com.softtek.modelo;
-import com.softtek.modelo.Kriptoniano;
+package com.softtek.Ejercicio1.modelo;
+
 public class Superman extends Kriptoniano implements Volador {
     public String despegar() {
         return "Superman está despegando hacia el cielo.";

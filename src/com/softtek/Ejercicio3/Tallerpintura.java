@@ -1,4 +1,4 @@
-package com.softtek.fundamentos.modelo;
+package com.softtek.Ejercicio3;
 
 public class Tallerpintura implements Taller{
 
